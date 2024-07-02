@@ -21,9 +21,16 @@ O passo a passo para a primeira utilização deste repositório esta descrito ab
 
   Uma prévia dos melhores resultados atingidos podem ser encontrados na tabela abaixo:
 | Modelo               | Acurácia | Precisão | F1-Score | AUC   |
+
 |----------------------|----------|----------|----------|-------|
+
 | CNN VGG19            | 0,7541   | 0,7552   | 0,7449   | 0,9148|
+
 | LR                   | 0,7576   | 0,7425   | 0,7471   | 0,8945|
+
 | Perceptron           | 0,7459   | 0,7177   | 0,7032   | 0,9003|
+
 | KNORA-U Perceptron   | 0,7478   | 0,7203   | 0,7202   | 0,8910|
+
 | KNORA-E Perceptron   | 0,7482   | 0,7403   | 0,7498   | 0,8907|
+
